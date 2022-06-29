@@ -1,11 +1,11 @@
-import css from "./assets/css.png";
-import python from "./assets/python.png";
-import java from "./assets/java.png";
-import cpp from "./assets/cpp.png";
-import go from "./assets/go.png";
-import php from "./assets/php.png";
-import javascript from "./assets/javascript.png";
-import html from "./assets/html.png";
+import css from "../assets/css.png";
+import python from "../assets/python.png";
+import java from "../assets/java.png";
+import cpp from "../assets/cpp.png";
+import go from "../assets/go.png";
+import php from "../assets/php.png";
+import javascript from "../assets/javascript.png";
+import html from "../assets/html.png";
 
 export const languages = [
   {

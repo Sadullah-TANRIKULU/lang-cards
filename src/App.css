@@ -1,22 +1,17 @@
-.container {
-    width: 59rem;
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', sans-serif;
+
+}
+
+body {
+    background-color: #f4d467;
+    height: 100vh;
+}
+
+.main-container {
     display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    flex-direction: column;
     align-items: center;
-    margin: 1rem;
-}
-
-
-img {
-    width: 21rem;
-    height: 21rem;
-    
-}
-
-.card-container {
-    margin: 1rem;
-    border: 1px solid black;
-    width: 27rem;
-    height: 24rem;
 }
